@@ -1,5 +1,5 @@
 /*
- *Horse Track
+ *Rabbit and turtle race
  *Autor: Jose Rodrigo Perez Beltran
  *compiler: GNU project C and C++ compiler
 */
