@@ -1,0 +1,13 @@
+10 rem determina e imprime la suma de dos enteros
+15 rem
+20 rem introduce los dos enteros
+30 input a
+40 input b
+45 rem
+50 rem suma los enteros y almacena el resultado en c
+60 let c = a + b
+65 rem
+70 rem imprimer el resultado
+80 print c
+90 rem termina ejecucion
+99 end
