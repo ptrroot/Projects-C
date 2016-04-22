@@ -8,7 +8,6 @@ They are:
  * Rabitt and turtle race simulation
  * Maze runner
  * Horse track simulation
- * A calendar generator
  * Hanoi towers simulation
  * Maze Generator
  * Life
