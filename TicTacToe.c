@@ -1,6 +1,6 @@
 /*
 TicTacToe Videogame and Line factor heuristic
-Autor: Jose Rodrigo Perez Beltran AKA FrikiPointer
+Autor: Jose Rodrigo Perez Beltran
 Compile with the flag -std=c11
 This game is for a  linux terminal, but can be modified for other console environment 
 */
