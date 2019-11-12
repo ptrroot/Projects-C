@@ -1,5 +1,5 @@
 #include <stdio.h>
-//autor PtrRodrigo Null
+//autor José Rodrigo Pérez Beltrán
 int main()
 {
 int numero;
